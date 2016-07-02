@@ -1,3 +1,4 @@
+/* Copyright (c) 2016 Emeka N. All Rights Reserved. */
 #ifndef SRC_LOG_H_
 #define  SRC_LOG_H_
 
